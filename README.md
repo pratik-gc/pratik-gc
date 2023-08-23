@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋, Welcome to my profile!
+
+I am Pratik Chaudhari from Pune, India. I am currently pursuing my Post-Graduation Diploma in Advanced Computing (PG-DAC) Course from CDAC-ACTS Pune in March 2023 batch.
+
+I am here to share my work with the world. Soon, I would like to contribute to open source projects to help our community in a productive way.
+
+On personal front, I am a beginner in learning Portuguese and German languages. I am planning to learn Spanish as well in near future.
+
+=> 🔭 I’m currently working on this page.
+=> 🌱 I’m currently learning React JS and .NET.
 
 <!--
 **pratik-gc/pratik-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
